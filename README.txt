@@ -55,14 +55,10 @@
     "atlascode.jira.workingSite": {
       "baseUrlSuffix": "atlassian.net"
     },
-    "yaml.schemas": {
-      "file:///Users/serhii_novokhatskyi/.vscode/extensions/atlassian.atlascode-1.4.3/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
-    },
     "atlascode.showWelcomeOnInstall": false,
     "window.restoreFullscreen": true,
     "workbench.editor.tabCloseButton": "left",
     "extensions.ignoreRecommendations": false,
-    "aws.profile": "aws_cdp",
     "[python]": {
       "editor.defaultFormatter": "ms-python.python"
     },
